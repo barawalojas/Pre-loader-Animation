@@ -1,2 +1,3 @@
 # Pre-loader-Animation
 A Pre-Loader made using HTML5, CSS3 only ...
+<img src="gif.gif">
